@@ -6,7 +6,7 @@
 }
 
 body {
-  background: #222;
+  background: #f4f4f4;
 }
 
 .card {
@@ -57,13 +57,13 @@ body {
 
 .weather-icon {
   width: 200px;
-  margin-top: 100px;
+  margin-top: 70px;
 }
 
 .weather h1 {
   font-size: 50px;
   font-weight: 100;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .weather h2 {
